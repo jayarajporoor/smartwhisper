@@ -1,0 +1,13 @@
+> d=dummy(1) % calls dummy.m
+dummy object
+    field1: [2x3 double]
+>> d.field1 % calls subsref.m
+ans =
+    0.9501    0.6068    0.8913
+    0.2311    0.4860    0.7621
+>> d.field1 = rand(1,1) % calls subsasgn.m
+dummy object
+    field1: 0.4565
+>> d=dummy % calls dummy.m but does not initialize fields
+dummy object
+    field1: []

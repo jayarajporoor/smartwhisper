@@ -1,0 +1,18 @@
+
+hash=[0,1,1,0];
+
+preamble=[1,0,1,0];
+
+samples_per_sec=48000;
+cycles_per_sec=4000;
+cycles_per_bit=10;
+
+samples_per_cycle = samples_per_sec/cycles_per_sec
+
+hash_len = length(hash);
+preamble_len = length(preamble);
+total_len = hash_len + preamble_len;
+
+for i = 1 : total_len
+    samples(i) = sin
+end

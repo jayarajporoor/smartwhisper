@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="111"
+   name=""
+   committed-date="2008-09-16T16:22:14.867193Z"
+   url="http://svn.arl.edu/svn/research_papers/smart_permit/matlab/SLM"
+   last-author="jayaraj"
+   kind="dir"
+   revision="132"/>
+<entry
+   committed-rev="111"
+   name="filterA.m"
+   text-time="2005-11-29T07:10:00.000000Z"
+   committed-date="2008-09-16T16:22:14.867193Z"
+   checksum="83f9878c33c58457660caf1e1265d1f7"
+   last-author="jayaraj"
+   kind="file"/>
+<entry
+   committed-rev="111"
+   name="initSoundCard.m"
+   text-time="2005-11-29T13:42:54.000000Z"
+   committed-date="2008-09-16T16:22:14.867193Z"
+   checksum="d75744f1aea77bc6370c54565a34a250"
+   last-author="jayaraj"
+   kind="file"/>
+<entry
+   committed-rev="111"
+   name="SLM.pdf"
+   text-time="2005-12-15T05:22:42.000000Z"
+   committed-date="2008-09-16T16:22:14.867193Z"
+   checksum="d5016a61e7959559b479748b041d3b8f"
+   last-author="jayaraj"
+   kind="file"/>
+<entry
+   committed-rev="111"
+   name="stopSoundCard.m"
+   text-time="2005-11-29T19:01:08.000000Z"
+   committed-date="2008-09-16T16:22:14.867193Z"
+   checksum="90d1762836887650f011b3bef570e43a"
+   last-author="jayaraj"
+   kind="file"/>
+<entry
+   committed-rev="111"
+   name="updateDisplay.m"
+   text-time="2005-11-29T07:14:10.000000Z"
+   committed-date="2008-09-16T16:22:14.867193Z"
+   checksum="8a9f59595721a1c2fa9e591e2b216408"
+   last-author="jayaraj"
+   kind="file"/>
+<entry
+   committed-rev="111"
+   name="initDisplay.m"
+   text-time="2005-11-29T19:01:22.000000Z"
+   committed-date="2008-09-16T16:22:14.867193Z"
+   checksum="b263965f7f4ac02a5c22699d33f5a453"
+   last-author="jayaraj"
+   kind="file"/>
+<entry
+   committed-rev="111"
+   name="SLM.m"
+   text-time="2005-12-15T05:25:16.000000Z"
+   committed-date="2008-09-16T16:22:14.867193Z"
+   checksum="f0f25e335884f9ffd21845384d85a8c4"
+   last-author="jayaraj"
+   kind="file"/>
+<entry
+   committed-rev="111"
+   name="runCalibration.m"
+   text-time="2005-11-29T08:54:54.000000Z"
+   committed-date="2008-09-16T16:22:14.867193Z"
+   checksum="3b3724adf44262284c2da358382daf0c"
+   last-author="jayaraj"
+   kind="file"/>
+<entry
+   committed-rev="111"
+   name="analyzeSignal.m"
+   text-time="2005-11-29T07:24:32.000000Z"
+   committed-date="2008-09-16T16:22:14.867193Z"
+   checksum="eab8457e16fbfcdadeb96f2d47c692d1"
+   last-author="jayaraj"
+   kind="file"/>
+<entry
+   committed-rev="111"
+   name="estimateLevel.m"
+   text-time="2005-11-29T07:07:38.000000Z"
+   committed-date="2008-09-16T16:22:14.867193Z"
+   checksum="e5c331b98c7d7d8b14d0505ea2d5b4f6"
+   last-author="jayaraj"
+   kind="file"/>
+<entry
+   name="examples"
+   kind="dir"/>
+</wc-entries>

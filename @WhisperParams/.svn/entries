@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="111"
+   name=""
+   committed-date="2008-09-16T16:22:14.867193Z"
+   url="http://svn.arl.edu/svn/research_papers/smart_permit/matlab/@WhisperParams"
+   last-author="jayaraj"
+   kind="dir"
+   revision="132"/>
+<entry
+   committed-rev="111"
+   name="demo.m"
+   text-time="2005-11-19T07:26:02.000000Z"
+   committed-date="2008-09-16T16:22:14.867193Z"
+   checksum="2657dd67efc92ac36aea11f6786ba96d"
+   last-author="jayaraj"
+   kind="file"/>
+<entry
+   committed-rev="111"
+   name="display.m"
+   text-time="2005-11-19T06:18:46.000000Z"
+   committed-date="2008-09-16T16:22:14.867193Z"
+   checksum="ebc5d50795475450cbef5d704f762e92"
+   last-author="jayaraj"
+   kind="file"/>
+<entry
+   committed-rev="111"
+   name="subsasgn.m"
+   text-time="2005-04-27T05:04:48.000000Z"
+   committed-date="2008-09-16T16:22:14.867193Z"
+   checksum="45541c40d3d380f5716fa4d4b8a72b2c"
+   last-author="jayaraj"
+   kind="file"/>
+<entry
+   committed-rev="111"
+   name="WhisperParams.m"
+   text-time="2008-06-29T10:24:46.984375Z"
+   committed-date="2008-09-16T16:22:14.867193Z"
+   checksum="3bd501f660c5a792be2ff33a9201a595"
+   last-author="jayaraj"
+   kind="file"/>
+<entry
+   committed-rev="111"
+   name="subsref.m"
+   text-time="2005-04-27T05:04:48.000000Z"
+   committed-date="2008-09-16T16:22:14.867193Z"
+   checksum="8084bdc425927bb376597a889056f49c"
+   last-author="jayaraj"
+   kind="file"/>
+<entry
+   committed-rev="111"
+   name="dummyDemo.txt"
+   text-time="2005-11-19T06:26:52.000000Z"
+   committed-date="2008-09-16T16:22:14.867193Z"
+   checksum="73d194bf2690dfc5a452e22cabd35f52"
+   last-author="jayaraj"
+   kind="file"/>
+</wc-entries>
